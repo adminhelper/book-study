@@ -86,18 +86,73 @@ book-study/
 
 ## 👥 스터디원
 
-| 이름 | GitHub |
-|------|--------|
-| 정인철 | [@incheol789](https://github.com/incheol789) |
-| 정다희 | [@da4isy](https://github.com/da4isy) |
-| 안유진 | [@anewjean](https://github.com/anewjean) |
-| 박수환 | [@vividswan](https://github.com/vividswan) |
-| 김대진 | [@dd-jiny](https://github.com/dd-jiny) |
-| 변숭문 | [@adminhelper](https://github.com/adminhelper) |
-| 임재인 | [@lim-jaein](https://github.com/lim-jaein) |
-| 임나현 | [@iohyeon](https://github.com/iohyeon) |
-| 김지혜 | [@zeexzeex](https://github.com/zeexzeex) |
-| 김평숙 | [@katiekim17](https://github.com/katiekim17) |
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/incheol789">
+        <img src="https://github.com/incheol789.png" width="120" /><br/>
+        <b>정인철</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/da4isy">
+        <img src="https://github.com/da4isy.png" width="120" /><br/>
+        <b>정다희</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/anewjean">
+        <img src="https://github.com/anewjean.png" width="120" /><br/>
+        <b>안유진</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/vividswan">
+        <img src="https://github.com/vividswan.png" width="120" /><br/>
+        <b>박수환</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/dd-jiny">
+        <img src="https://github.com/dd-jiny.png" width="120" /><br/>
+        <b>김대진</b>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/adminhelper">
+        <img src="https://github.com/adminhelper.png" width="120" /><br/>
+        <b>변숭문</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/lim-jaein">
+        <img src="https://github.com/lim-jaein.png" width="120" /><br/>
+        <b>임재인</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/iohyeon">
+        <img src="https://github.com/iohyeon.png" width="120" /><br/>
+        <b>임나현</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/zeexzeex">
+        <img src="https://github.com/zeexzeex.png" width="120" /><br/>
+        <b>김지혜</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/katiekim17">
+        <img src="https://github.com/katiekim17.png" width="120" /><br/>
+        <b>김평숙</b>
+      </a>
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## 📌 참고 자료
