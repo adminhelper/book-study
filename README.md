@@ -10,6 +10,77 @@
 
 ---
 
+## 👥 스터디원
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/incheol789">
+        <img src="https://github.com/incheol789.png" width="120" /><br/>
+        <b>정인철</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/da4isy">
+        <img src="https://github.com/da4isy.png" width="120" /><br/>
+        <b>정다희</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/anewjean">
+        <img src="https://github.com/anewjean.png" width="120" /><br/>
+        <b>안유진</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/vividswan">
+        <img src="https://github.com/vividswan.png" width="120" /><br/>
+        <b>박수환</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/dd-jiny">
+        <img src="https://github.com/dd-jiny.png" width="120" /><br/>
+        <b>김대진</b>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/adminhelper">
+        <img src="https://github.com/adminhelper.png" width="120" /><br/>
+        <b>변숭문</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/lim-jaein">
+        <img src="https://github.com/lim-jaein.png" width="120" /><br/>
+        <b>임재인</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/iohyeon">
+        <img src="https://github.com/iohyeon.png" width="120" /><br/>
+        <b>임나현</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/zeexzeex">
+        <img src="https://github.com/zeexzeex.png" width="120" /><br/>
+        <b>김지혜</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/katiekim17">
+        <img src="https://github.com/katiekim17.png" width="120" /><br/>
+        <b>김평숙</b>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 📅 진행 방식
 
 | 항목 | 내용 |
@@ -81,77 +152,6 @@ book-study/
 2. **질문에 정답은 없다** — "왜?"라는 질문이 가장 좋은 질문입니다.
 3. **실무와 연결** — 책 내용을 본인 경험이나 프로젝트에 연결해봅니다.
 4. **서로 존중** — 모르는 건 부끄러운 게 아닙니다. 함께 배우는 자리입니다.
-
----
-
-## 👥 스터디원
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/incheol789">
-        <img src="https://github.com/incheol789.png" width="120" /><br/>
-        <b>정인철</b>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/da4isy">
-        <img src="https://github.com/da4isy.png" width="120" /><br/>
-        <b>정다희</b>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/anewjean">
-        <img src="https://github.com/anewjean.png" width="120" /><br/>
-        <b>안유진</b>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/vividswan">
-        <img src="https://github.com/vividswan.png" width="120" /><br/>
-        <b>박수환</b>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/dd-jiny">
-        <img src="https://github.com/dd-jiny.png" width="120" /><br/>
-        <b>김대진</b>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/adminhelper">
-        <img src="https://github.com/adminhelper.png" width="120" /><br/>
-        <b>변숭문</b>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/lim-jaein">
-        <img src="https://github.com/lim-jaein.png" width="120" /><br/>
-        <b>임재인</b>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/iohyeon">
-        <img src="https://github.com/iohyeon.png" width="120" /><br/>
-        <b>임나현</b>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/zeexzeex">
-        <img src="https://github.com/zeexzeex.png" width="120" /><br/>
-        <b>김지혜</b>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/katiekim17">
-        <img src="https://github.com/katiekim17.png" width="120" /><br/>
-        <b>김평숙</b>
-      </a>
-    </td>
-  </tr>
-</table>
 
 ---
 
